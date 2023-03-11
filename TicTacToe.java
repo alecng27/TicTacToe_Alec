@@ -188,9 +188,4 @@ public class TicTacToe {
         }
         return bestScore;
     }
-    
-    public static void main(String[] args) {
-        TicTacToe game = new TicTacToe();
-        game.play();
-    }
 }    
